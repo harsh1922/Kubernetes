@@ -1,0 +1,15 @@
+key:value
+name:harsh
+
+couses:
+   - Devops
+   - Aws
+   - Mern
+
+info:
+  name:Harsh
+  age:23
+  jobs:
+     - remote
+     - YT
+  
